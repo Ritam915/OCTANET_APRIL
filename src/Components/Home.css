@@ -1,0 +1,35 @@
+.parent-container{
+    height: 100vh;
+}
+.parts{
+    height: 100%;
+}
+.part1{
+    height: 100%;
+    width: 50%;
+    background: #34e89e;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0f3443, #34e89e);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0f3443, #34e89e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+.part2{
+    height: 100%;
+    width: 50%;
+    background: #3494E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #EC6EAD, #3494E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+.seprator{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: azure;
+}
+.seprator span{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    font-size: 40px;
+    font-weight: bold;
+}
