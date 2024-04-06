@@ -10,7 +10,7 @@ const Home = () => {
         <div className="parent-container">
           <div className="d-flex parts">
             <div className="part1 d-flex flex-column justify-content-center align-items-center ">
-              <h3 className="text-white">MERN Stack Developer</h3>
+              <h3 className="text-white">Blockchain Developement</h3>
               <div className="h-50">
                 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
                 <lottie-player
@@ -37,7 +37,7 @@ const Home = () => {
                   mode="normal"
                 ></lottie-player>
               </div>
-              <h1 className="text-white"> WEB Developer</h1>
+              <h1 className="text-white"> WEB Developement</h1>
             </div>
             {/* <div className="seprator">
               <span>LANDING PAGE</span>
