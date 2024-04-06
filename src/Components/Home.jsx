@@ -37,7 +37,7 @@ const Home = () => {
                   mode="normal"
                 ></lottie-player>
               </div>
-              <h1 className="text-white"> WEB Developement</h1>
+              <h1 className="text-white"> Web Developement</h1>
             </div>
             {/* <div className="seprator">
               <span>LANDING PAGE</span>
